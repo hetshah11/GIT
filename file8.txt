@@ -1,0 +1,4 @@
+Creating Git Patch Files in a Directory
+As you probably noticed from the previous section, patch files were created directory in the directory where the command was run.
+
+This might not be the best thing because the patch files will be seen as untracked files by Git.
