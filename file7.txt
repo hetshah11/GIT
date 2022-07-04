@@ -1,0 +1,5 @@
+If you create patches for the destination branch, you will be provided with two separate patch files, one for the first commit and one for the second commit.
+
+For example, let’s say that you have your “master” branch and a “feature” branch that is two commits ahead of your master branch.
+
+When running the “git diff” command, you will be presented with the two commits added in your feature branch.
