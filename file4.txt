@@ -1,2 +1,1 @@
-Git diff is a command used to output the changes between two sources inside the git repository. The data sources can be two different branches, commits, files, etc.
-The common use cases of git diff commands are listed below.
+This will output the modifications of the current branch to the mentioned branch to its previous committed state
