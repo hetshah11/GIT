@@ -1,1 +1,2 @@
-is far removed from the drunken bikini scene in Kuta, and is regarded as the cultural centre of Bali. It is famous as an arts and crafts hub, and much of the town and nearby villages seems to consist of artists' workshops and galleries. There are some remarkable architectural sights, artistic gems to be found, and a general feeling of well being to be enjoyed, all thanks to the spirit, surroundings, and climate of the place.
+Git diff is a command used to output the changes between two sources inside the git repository. The data sources can be two different branches, commits, files, etc.
+The common use cases of git diff commands are listed below.
