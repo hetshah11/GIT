@@ -1,0 +1,3 @@
+Then copy this patch to your local machine, and apply it to your local working copy with:
+
+And that’s it! The changes are now in your working copy and ready to be staged/commit/pushed :)
