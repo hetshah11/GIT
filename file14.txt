@@ -1,0 +1,4 @@
+
+
+How to create and apply a patch with Git Diff and ... - Specbeehttps://www.specbee.com › blogs › how-create-and-app...
+18-Aug-2020 — To create a Git patch, we can use any of the git diff commands to get the changes. We then need to save the changes to a file which can be used 
