@@ -1,0 +1,4 @@
+
+How To Create and Apply Git Patch Files - devconnectedhttps://devconnected.com › Software Engineering
+08-Dec-2019 — To create a Git patch file, you have to use the “git format-patch” command, specify the branch and the target directory where you want your ...
+‎Create Git Patch Files · ‎Create Git Patch for Specific... · ‎Git Patch Troubleshooting
