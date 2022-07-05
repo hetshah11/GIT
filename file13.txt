@@ -1,0 +1,1 @@
+1 Answer. git fetch --all and git pull -all will only track the remote branches and track local branches that track remote branches respectively. Run this command only if there are remote branches on the server which are untracked by your local branches. Thus, you can fetch all git branches.
